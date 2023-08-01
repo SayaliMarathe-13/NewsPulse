@@ -1,0 +1,22 @@
+slice();
+
+componentDidMount()
+:lifecycle method
+
+asynchronous function |
+
+fetch() //API
+
+bootstrap flex box  ///for flex classes
+
+button class- disabled ////as per our need
+
+math.ceil();  if 5.6 returns 6
+
+previous arrow html code   ///for arrows
+
+alt+shift+click = multiple cursor
+
+npm install react-router-dom@5.2.0
+
+component re mount by key

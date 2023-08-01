@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Go-karting for French prisoners a mistake, admits Fresnes governor",
+            "description": "It was meant as a day of fun and games at France's second largest prison, but it prompted an outcry.",
+            "url": "http://www.bbc.co.uk/news/world-europe-62659179",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EFBC/production/_126427316_3757f53d-61e7-4f71-a093-0e1e322ba28f.jpg",
+            "publishedAt": "2022-08-24T12:22:27.1527003Z",
+            "content": "By Paul KirbyBBC News\r\nIt was meant as a day of fun and games at France's second largest prison, but images of inmates go-karting prompted an outcry and now the governor has admitted to an \"error of … [+3069 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US strikes Iran-backed groups' facilities in Syria after base attacks",
+            "description": "Jets bombed ammunition and storage bunkers in retaliation for recent attacks on US forces in Syria.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-62658883",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/60B0/production/_126425742_mediaitem126425741.jpg",
+            "publishedAt": "2022-08-24T12:22:19.4968522Z",
+            "content": "By David GrittenBBC News\r\nThe US says it has carried out air strikes on facilities in eastern Syria used by groups affiliated with Iran's Islamic Revolution Guard Corps (IRGC). \r\nNine ammunition and … [+2354 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Kyiv residents reflect on six months of war",
+            "description": "Ukrainians are marking their country's Independence Day six months on from the start of Russia's invasion.",
+            "url": "http://www.bbc.co.uk/news/world-europe-62656754",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8FA4/production/_126427763_p0cvz2wz.jpg",
+            "publishedAt": "2022-08-24T10:37:22.6074328Z",
+            "content": "On Ukraine's Independence Day, locals living in Ukraine's capital Kyiv have been sharing their thoughts on the war after six months of conflict with Russia.\r\nNormally, a massive military parade march… [+121 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Elton John gives diners preview of Britney Spears' first music since 2016",
+            "description": "Sir Elton John asks a French restaurant DJ to play his Britney Spears duet and streams the reactions.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-62658128",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6560/production/_126425952_gettyimages-162614485.jpg",
+            "publishedAt": "2022-08-24T09:37:23.543024Z",
+            "content": "By Mark SavageBBC Music Correspondent\r\nSir Elton John has given French diners a preview of Britney Spears' first new music since the conservatorship running her life was lifted last year.\r\nSir Elton … [+2221 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war latest: Tight security around Independence Day amid fear of Russia attacks",
+            "description": "Six-months into Russia's invasion, public gatherings have been banned in Kyiv because of security fears.",
+            "url": "http://www.bbc.co.uk/news/live/world-62647630",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2022-08-24T06:07:23.8875136Z",
+            "content": "You need one to watch live TV on any channel or device, and BBC programmes on iPlayer. Its the law.\r\nFind out more"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Spain: Gunman euthanised before he can stand trial",
+            "description": "The man had begged to be euthanised after being partially paralysed in a police shootout in Spain.",
+            "url": "http://www.bbc.co.uk/news/world-europe-62651349",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F62E/production/_126422036_gettyimages-89662507.jpg",
+            "publishedAt": "2022-08-24T03:07:26.8085037Z",
+            "content": "By Alys DaviesBBC News\r\nA man in Spain who was paralysed in a police shootout after opening fire on workmates has been euthanised in prison before he could face trial. \r\nMarin Eugen Sabau, 46, shot a… [+1625 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Eurotunnel Le Shuttle: Passengers stuck for hours inside tunnel",
+            "description": "\"Several people were freaking out,\" said one traveller, after a Calais to Folkestone train was evacuated.",
+            "url": "http://www.bbc.co.uk/news/uk-62655148",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/23B6/production/_126424190_channel_tunnel.png",
+            "publishedAt": "2022-08-24T03:07:24.1841566Z",
+            "content": "Dozens of people were left stranded for hours inside the Channel Tunnel after a train from Calais to Folkestone appeared to have broken down.\r\nFootage emerged showing Eurotunnel Le Shuttle passengers… [+2185 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Rayshard Brooks: No charges in police killing that sparked protests",
+            "description": "The 27-year-old was shot after a struggle with two officers who were trying to arrest him.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62654668",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5D7C/production/_126423932_gettyimages-1233419154.jpg",
+            "publishedAt": "2022-08-24T02:52:23.1374306Z",
+            "content": "The 2020 police killing of a motorist in the car park of a Georgia fast-food restaurant was legally justified, a special prosecutor has ruled. \r\nRayshard Brooks, 27, was fatally shot about three week… [+1819 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Charlie Crist: Florida Democrats pick challenger to Ron DeSantis",
+            "description": "Democrats are keen to eclipse rising star Mr DeSantis amid expectations he may run for the White House.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62655157",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/177F2/production/_126424269_crist.jpg",
+            "publishedAt": "2022-08-24T02:52:20.9021939Z",
+            "content": "Democratic voters have picked congressman Charlie Crist to take on Florida's Republican Governor Ron DeSantis in the midterm elections.\r\nMr Crist easily beat the state's agriculture commissioner, Nik… [+5292 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Dinosaur tracks from 113m years ago exposed by severe drought",
+            "description": "Around 60 tracks from the predator Acrocanthosaurus have been revealed for the first time in 22 years.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62653451",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/165E6/production/_126422619_301146357-1301626157038359-1763888626645226464-n.jpg",
+            "publishedAt": "2022-08-23T20:37:22.2925766Z",
+            "content": "A severe drought has exposed 113 million-year-old Dinosaur tracks on a river bed in central Texas.\r\nThe massive tracks, which belonged to a single Acrocanthosaurus, hadn't been seen since 2000, as th… [+1927 chars]"
+        }
+    ]
+}
